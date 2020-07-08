@@ -1,2 +1,2 @@
 # learng
-initial project
+initial test fo git commands demonstration
